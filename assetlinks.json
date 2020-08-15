@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.keepVisionGmbH.ARdisplay",
+    "sha256_cert_fingerprints": ["30:34:FB:C8:3B:D6:CE:09:C7:02:F1:63:C4:44:76:AF:CD:5A:26:2E:28:01:20:0B:4B:2B:C5:C4:C8:87:1F:AA"]
+  }
+}]
